@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ujiefiere.jiujie.gq/sitemap.xml
